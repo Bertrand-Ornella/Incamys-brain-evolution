@@ -1,0 +1,50 @@
+#NEXUS
+
+begin TREES;
+
+	TRANSLATE
+		1 'Ischyromys_typus',
+		2 'Mesogaulus_paniensis',
+		3 'Prosciurus_relictus',
+		4 'Cedromus_wilsoni',
+		5 'Protosciurus_cf_rachelae',
+		6 'Miopetaurista_crusafonti',
+		7 'Cavia_porcellus',
+		8 'Cavia_aperea',
+		9 'Galea_spixii',
+		10 'Galea_musteloides',
+		11 'Hydrochaerus_hydrochaeris',
+		12 'Kerodon_rupestris',
+		13 'Cuniculus_paca',
+		14 'Dolichotis_patagonum',
+		15 'Myoprocta_acouchy',
+		16 'Dasyprocta_punctata',
+		17 'Dasyprocta_variegata',
+		18 'Dasyprocta_leporina',
+		19 'Coendou_prehensilis',
+		20 'Coendou_spinosus',
+		21 'Erethizon_dorsatum',
+		22 'Pattonomys_semivillosus',
+		23 'Mesomys_hispidus',
+		24 'Hoplomys_gymnurus',
+		25 'Phyllomys_dasythrix',
+		26 'Myocastor_coypus',
+		27 'Octodon_degus',
+		28 'Spalacopus_cyaneus',
+		29 'Capromys_pilorides',
+		30 'Ctenomys_pearsoni',
+		31 'Lagostomus_maximus',
+		32 'Chinchilla_lanigera',
+		33 'Lagidium_peruanum',
+		34 'Dinomys_branickii',
+		35 'Dolicavia_minuscula',
+		36 'Prospaniomys_priscus',
+		37 'Neoreomys_australis',
+		38 'Incamys_bolivianus',
+		39 'Neoepiblema_acreensis';
+
+
+	TREE 'Default symmetrical+' = (((((((((7,8),(10,9)),(((12,11),14),35)),37),13),(((16,18),17),15)),((20,19),21)),(((((((25,22),23),(24,26)),29),((27,28),30)),36),(((((32,33),31),38),39),34))),((((5,6),4),(2,3)),1));
+end;
+
+

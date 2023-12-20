@@ -1,0 +1,34 @@
+"","Sp","Species_name","Families","Families1","Fossil_point","Abbreviations","Shape_point","Epoch","Regression_point","Collection_number","Body_mass_g","Body_mass_mg","Brain_volume_cm3","Brain_volume_mm3","PL"
+"Cavia_porcellus",1,"Cavia_porcellus","Cavioidea","Other","Other","Ca_po","Other","Extant","Extant","HACB CP3",703.77,703770,5.72985,5729.85,1.41346741298582
+"Cavia_aperea",2,"Cavia_aperea","Cavioidea","Other","Other","Ca_ap","Other","Extant","Extant","MCN 1709",552.2,552200,4.101351351,4101.351351,1.74350976472843
+"Galea_spixii",3,"Galea_spixii","Cavioidea","Other","Other","Ga_sp","Other","Extant","Extant","PIMUZ/AV 2472",335.78,335780,3.75965251,3759.65251,1.74429298312268
+"Galea_musteloides",4,"Galea_musteloides","Cavioidea","Other","Other","Ga_mu","Other","Extant","Extant","ZM 16952",396.21,396210,2.635135135,2635.135135,1.45939248775923
+"Kerodon_rupestris",6,"Kerodon_rupestris","Cavioidea","Other","Other","Ke_ru","Other","Extant","Extant","PIMUZ/AV 2460",899.575,899575,6.17953668,6179.53668,1.86272752831797
+"Dolichotis_patagonum",8,"Dolichotis_patagonum","Cavioidea","Other","Other","Do_pa","Other","Extant","Extant","B 21869",8018,8018000,29.41119691,29411.19691,2.11293997608408
+"Myoprocta_acouchy",9,"Myoprocta_acouchy","Cavioidea","Other","Other","My_ac","Other","Extant","Extant","AMNH 94073",987.48,987480,12.9327,12932.7,1.86332286012046
+"Dasyprocta_punctata",10,"Dasyprocta_punctata","Cavioidea","Other","Other","Da_pu","Other","Extant","Extant","AMNH 14179",3049.32,3049320,21.9964,21996.4,2.22762964957101
+"Dasyprocta_variegata",11,"Dasyprocta_variegata","Cavioidea","Other","Other","Da_va","Other","Extant","Extant","PIMUZ 11923",4100,4100000,23.496139,23496.139,2.23954972084047
+"Dasyprocta_leporina",12,"Dasyprocta_leporina","Cavioidea","Other","Other","Da_le","Other","Extant","Extant","PIMUZ 19854",3980,3980000,23.96332046,23963.32046,2.13987908640124
+"Neoreomys_australis",14,"Neoreomys_australis","Cavioidea","Caviomorpha","Fossil","Ne_au","Ne_au","Miocene","Fossil","PIMUZ A/V 5265",5120,5120000,13.20844,13208.44,2.01577875638904
+"Coendou_prehensilis",15,"Coendou_prehensilis","Erethizontoidea","Other","Other","Co_pr","Other","Extant","Extant","UF 14899",4177.7,4177700,22.473,22473,0.7481880270062
+"Coendou_spinosus",16,"Coendou_spinosus","Erethizontoidea","Other","Other","Co_sp","Other","Extant","Extant","MCN-M 335",1592.5,1592500,13.83153,13831.53,0.799340549453582
+"Pattonomys_semivillosus",18,"Pattonomys_semivillosus","Octodontoidea","Other","Other","Pa_se","Other","Extant","Extant","AMNH 96763",282.36,282360,5.62519,5625.19,1.60227708430019
+"Mesomys_hispidus",19,"Mesomys_hispidus","Octodontoidea","Other","Other","Me_hi","Other","Extant","Extant","AMNH 80434",180,180000,2.89773,2897.73,1.46568021159828
+"Hoplomys_gymnurus",20,"Hoplomys_gymnurus","Octodontoidea","Other","Other","Ho_gy","Other","Extant","Extant","AMNH 29548",297.11,297110,4.92885,4928.85,1.46849502450707
+"Phyllomys_dasythrix",21,"Phyllomys_dasythrix","Octodontoidea","Other","Other","Ph_da","Other","Extant","Extant","MCN-M 391",256.67,256670,2.57377,2573.77,1.5705429398819
+"Myocastor_coypus",22,"Myocastor_coypus","Octodontoidea","Other","Other","My_co","Other","Extant","Extant","AMNH 93320",5654.84,5654840,17.8861,17886.1,1.86391737695786
+"Octodon_degus",23,"Octodon_degus","Octodontoidea","Other","Other","Oc_de","Other","Extant","Extant","AMNH 242477",212.57,212570,2.13545,2135.45,1.35564305022087
+"Spalacopus_cyaneus",24,"Spalacopus_cyaneus","Octodontoidea","Other","Other","Sp_cy","Other","Extant","Extant","AMNH 33277",118.4,118400,1.66501,1665.01,0.894869656745253
+"Capromys_pilorides",25,"Capromys_pilorides","Octodontoidea","Other","Other","Ca_pi","Other","Extant","Extant","UMZC E.3371",5263,5263000,13.7319,13731.9,0.792391689498254
+"Ctenomys_pearsoni",26,"Ctenomys_pearsoni","Octodontoidea","Other","Other","Ct_pe","Other","Extant","Extant","AMNH 206517",224.96,224960,2.42158,2421.58,1.28057837036808
+"Prospaniomys_priscus",27,"Prospaniomys_priscus","Octodontoidea","Caviomorpha","Fossil","Pr_pr","Pr_pr","Miocene","Fossil","MACN-PV CH1913",368.6760783,368676.0783,2.4258,2425.8,1.55630250076729
+"Lagostomus_maximus",28,"Lagostomus_maximus","Chinchilloidea","Other","Other","La_ma","Other","Extant","Extant","AMNH 41523",4859.68,4859680,13.3266,13326.6,1.24551266781415
+"Chinchilla_lanigera",29,"Chinchilla_lanigera","Chinchilloidea","Other","Other","Ch_la","Other","Extant","Extant","AMNH 180038",442.7,442700,5.60295,5602.95,2.01397417702092
+"Lagidium_peruanum",30,"Lagidium_peruanum","Chinchilloidea","Other","Other","La_pe","Other","Extant","Extant","1043",1240,1240000,12.6183,12618.3,2.41979058610636
+"Incamys_bolivianus",32,"Incamys_bolivianus","Chinchilloidea","Caviomorpha","Fossil","In_bo","In_bo","Oligocene","Fossil","YPM VPPU 21945",787.1062757,787106.2757,3.93658,3936.58,1.80373017097454
+"Ischyromys_typus",34,"Ischyromys_typus","Ischyromyidae_Sciuroidea","Other","Other","Is_ty","Other","Ischyromyidae_Sciuroidea","Ischyromyidae_Sciuroidea","AMNH F: AM 144639; AMNH 12252; ROMV 1007",1199.076667,1199076.667,6.263176667,6263.176667,2.01640650087112
+"Mesogaulus_paniensis",35,"Mesogaulus_paniensis","Ischyromyidae_Sciuroidea","Other","Other","Me_pa","Other","Ischyromyidae_Sciuroidea","Ischyromyidae_Sciuroidea","AMNH F:AM 65511",266.48,266480,3.46799,3467.99,1.6652994994999
+"Protosciurus_cf_rachelae",36,"Protosciurus_cf_rachelae","Ischyromyidae_Sciuroidea","Other","Other","Pr_ra","Other","Ischyromyidae_Sciuroidea","Ischyromyidae_Sciuroidea","YPM 14737; YPM 14736",349.62,349620,5.102885,5102.885,2.20119222010249
+"Cedromus_wilsoni",37,"Cedromus_wilsoni","Ischyromyidae_Sciuroidea","Other","Other","Ce_wi","Other","Ischyromyidae_Sciuroidea","Ischyromyidae_Sciuroidea","USNM 256584",393.49,393490,3.60987,3609.87,2.05675244056744
+"Prosciurus_relictus",38,"Prosciurus_relictus","Ischyromyidae_Sciuroidea","Other","Other","Pr_re","Other","Ischyromyidae_Sciuroidea","Ischyromyidae_Sciuroidea","USNM 437793",143.57,143570,0.957445,957.445,1.50622082154321
+"Miopetaurista_crusafonti",39,"Miopetaurista_crusafonti","Ischyromyidae_Sciuroidea","Other","Other","Mi_cr","Other","Ischyromyidae_Sciuroidea","Ischyromyidae_Sciuroidea","SNSB 1978 V 1",1228.9,1228900,10.82214,10822.14,2.31685062992605

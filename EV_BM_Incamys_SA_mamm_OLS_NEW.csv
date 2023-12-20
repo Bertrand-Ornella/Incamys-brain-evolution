@@ -1,0 +1,31 @@
+,Sp,Species_name,Families,Families1,Fossil_point,Abbreviations,Shape_point,Epoch,Regression_point,Collection_number,Body_mass_g,Body_mass_mg,Brain_volume_cm3,Brain_volume_mm3,PEQ,predicted,residuals
+Dolicavia_minuscula,13,Dolicavia_minuscula,Cavioidea,Caviomorpha,Caviomorpha,Do_mi,Do_mi,Pliocene,Fossil,MMP M-1364,534.52,534520,6.006,6006,0.471382691,0.635252841,0.143332487
+Neoreomys_australis,14,Neoreomys_australis,Cavioidea,Caviomorpha,Caviomorpha,Ne_au,Ne_au,Miocene,Fossil,PIMUZ A/V 5265,5120,5120000,13.20844,13208.44,0.30781405,1.162604192,-0.041752665
+Prospaniomys_priscus,27,Prospaniomys_priscus,Octodontoidea,Caviomorpha,Caviomorpha,Pr_pr,Pr_pr,Miocene,Fossil,MACN-PV CH1913,368.6760783,368676.0783,2.4258,2425.8,0.232453304,0.54856042,-0.163705428
+Incamys_bolivianus,32,Incamys_bolivianus,Chinchilloidea,Caviomorpha,Caviomorpha,In_bo,In_bo,Oligocene,Fossil,YPM VPPU 21945,787.1062757,787106.2757,3.93658,3936.58,0.250950059,0.725572917,-0.130453836
+Neoepiblema_acreensis,33,Neoepiblema_acreensis,Chinchilloidea,Caviomorpha,Caviomorpha,Ne_ac,Ne_ac,Miocene,Fossil,UFAC 4515,126955.3877,126955387.7,49.5388,49538.8,0.20561057,1.911941093,-0.216995611
+Rhynchippus_equinus,40,Rhynchippus_equinus,Notoungulata,Notoungulata,Notoungulata,Rh_eq,Other,Oligocene,Notoungulata,MPEF-PV 695,85000,8.50E+07,82.53,82530,0.424955793,1.818309146,0.098302699
+Eurygenium_latirostris,41,Eurygenium_latirostris,Notoungulata,Notoungulata,Notoungulata,Eu_li,Other,Oligocene,Notoungulata,UNPSJB-PV 60,119000,1.19E+08,77.572,77572,0.333355831,1.896837981,-0.007132992
+Cochilius_sp.,42,Cochilius_sp.,Notoungulata,Notoungulata,Notoungulata,Co_sp,Other,Oligocene,Notoungulata,SGOPV 3774,2050,2050000,6.839,6839,0.260647566,0.94898005,-0.113987447
+Mendozahippus_fierensis,43,Mendozahippus_fierensis,Notoungulata,Notoungulata,Notoungulata,Me_fi,Other,Oligocene,Notoungulata,MCNAM-PV 4004,82000,8.20E+07,59.437,59437,0.3120146,1.809923019,-0.035866138
+Gualta_cuyan,44,Gualta_cuyan,Notoungulata,Notoungulata,Notoungulata,Gu_ca,Other,Oligocene,Notoungulata,"MCNAM-PV
+3951",404000,4.04E+08,235.04,235040,0.523691789,2.182107041,0.189034737
+Cramauchenia_normalis,45,Cramauchenia_normalis,Liptoterna,Liptoterna,Liptoterna,Cr_ni,Other,Oligocene,Liptoterna,MPEF-PV 2524,80250,80250000,111.72,111720,0.593312829,1.804888244,0.243242683
+Theosodon_cf_T_gracilis,46,Theosodon_cf_T_gracilis,Liptoterna,Liptoterna,Liptoterna,Th_gi,Other,Miocene,Liptoterna,MLP 12û1123,106450,106450000,153.66,153660,0.701091387,1.870827248,0.315733581
+Trachytherus_spegazzinianus,47,Trachytherus_spegazzinianus,Notoungulata,Notoungulata,Notoungulata,Tr_su,Other,Oligocene,Notoungulata,UNPSJB-PV 112,136460,136460000,60.41,60410,0.241189893,1.928790777,-0.147681941
+Trachytherus_alloxus,48,Trachytherus_alloxus,Notoungulata,Notoungulata,Notoungulata,Tr_au,Other,Oligocene,Notoungulata,MNHN Bol V 6335,45280,45280000,30.89,30890,0.223118075,1.671324219,-0.181506311
+Eutypotherium_superans,49,Eutypotherium_superans,Notoungulata,Notoungulata,Notoungulata,Eu_sn,Other,Miocene,Notoungulata,MACN A 11079,71900,71900000,47.36,47360,0.266813037,1.779245706,-0.103834012
+Plesiotypotherium_achirense,52,Plesiotypotherium_achirense,Notoungulata,Notoungulata,Notoungulata,Pl_as,Other,Miocene,Notoungulata,MNHN.F.ACH 26,76180,76180000,72.42,72420,0.395511125,1.792740873,0.067117648
+Nesodon_imbricatus,53,Nesodon_imbricatus,Notoungulata,Notoungulata,Notoungulata,Ne_iu,Other,Miocene,Notoungulata,MPEF-PV 1323,581000,5.81E+08,292,292000,0.535202735,2.266905548,0.198477303
+Pseudoplohophorus_absolutus,54,Pseudoplohophorus_absolutus,Xenarthra,Xenarthra,Xenarthra,Ps_ab,Other,Miocene,Cingulata Xenarthra,"FCDPV
+595",209000,2.09E+08,100.98,100980,0.32062056,2.028285037,-0.02404967
+Chilecebus_carrascoensis,55,Chilecebus_carrascoensis,Primates,Primates,Primates,Ch_ci,Other,Miocene,stem Platyrrhini,SGOPV 3213,583,583000,7.96,7960,0.596264586,0.655515194,0.245397874
+Glyptodon sp. 15152,56,Glyptodon_sp._15152,Xenarthra,Xenarthra,Xenarthra,Gl_sp_15152,Other,Pleistocene,Cingulata Xenarthra,MACN-Pv 15152,2012000,2.01E+09,234.12,234120,0.220127305,2.556805598,-0.187367083
+Glyptodon sp. 11-04,57,Glyptodon_sp._11-04,Xenarthra,Xenarthra,Xenarthra,Gl_sp_11-04,Other,Pleistocene,Cingulata Xenarthra,MPAC 11-04,946000,9.46E+08,213.38,213380,0.300963667,2.380680653,-0.051526942
+Panochthus tuberculatus,59,Panochthus_tuberculatus,Xenarthra,Xenarthra,Xenarthra,Pa_tu,Other,Pleistocene,Cingulata Xenarthra,-,1453000,1.45E+09,212.61,212610,0.238115062,2.480837824,-0.153254137
+Doedicurus clavicaudatus,60,Doedicurus_clavicaudatus,Xenarthra,Xenarthra,Xenarthra,Do_cl,Other,Pleistocene,Cingulata Xenarthra,-,1229000,1.23E+09,233.81,233810,0.286511752,2.44176165,-0.072898568
+Macrauchenia patachonica,61,Macrauchenia_patachonica,Liptoterna,Liptoterna,Liptoterna,Ma_pa,Other,Pleistocene,Liptoterna,MACN-PV 2,458390,458390000,514.64,514640,1.071418758,2.211585317,0.499918221
+Pampatherium humboldtii,62,Pampatherium_humboldtii,Xenarthra,Xenarthra,Xenarthra,Pa_hu,Other,Pleistocene,Cingulata Xenarthra,MHD-P-28,209500,209500000,133,133000,0.42174502,2.028842716,0.095008925
+Mesotherium cristatum,64,Mesotherium_cristatum,Notoungulata,Notoungulata,Notoungulata,Me_cr,Other,Pleistocene,Notoungulata,MNHN.F.PAM 2,196280,196280000,54.23,54230,0.178094523,2.013630081,-0.279390476
+Mesotherium maendrum_2925,63,Mesotherium_maendrum_2925,Notoungulata,Notoungulata,Notoungulata,Me_ma_2925,Other,Pliocene,Notoungulata,MACN Pv 2925,194820,194820000,93.25,93250,0.307469695,2.011887564,-0.042238724
+Mesotherium maendrum_1111,64,Mesotherium_maendrum_1111,Notoungulata,Notoungulata,Notoungulata,Me_ma_1111,Other,Pliocene,Notoungulata,MACN Pv 1111,154060,154060000,65.34,65340,0.244408815,1.957103308,-0.141924178

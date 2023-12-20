@@ -1,0 +1,79 @@
+#NEXUS
+[R-package APE, Thu Sep 28 09:32:03 2023]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 33;
+	TAXLABELS
+		Cavia_porcellus
+		Cavia_aperea
+		Galea_musteloides
+		Galea_spixii
+		Kerodon_rupestris
+		Hydrochaerus_hydrochaeris
+		Dolichotis_patagonum
+		Dolicavia_minuscula
+		Neoreomys_australis
+		Cuniculus_paca
+		Dasyprocta_punctata
+		Dasyprocta_leporina
+		Dasyprocta_variegata
+		Myoprocta_acouchy
+		Coendou_spinosus
+		Coendou_prehensilis
+		Erethizon_dorsatum
+		Phyllomys_dasythrix
+		Pattonomys_semivillosus
+		Mesomys_hispidus
+		Hoplomys_gymnurus
+		Myocastor_coypus
+		Capromys_pilorides
+		Octodon_degus
+		Spalacopus_cyaneus
+		Ctenomys_pearsoni
+		Prospaniomys_priscus
+		Chinchilla_lanigera
+		Lagidium_peruanum
+		Lagostomus_maximus
+		Incamys_bolivianus
+		Neoepiblema_acreensis
+		Dinomys_branickii
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Cavia_porcellus,
+		2	Cavia_aperea,
+		3	Galea_musteloides,
+		4	Galea_spixii,
+		5	Kerodon_rupestris,
+		6	Hydrochaerus_hydrochaeris,
+		7	Dolichotis_patagonum,
+		8	Dolicavia_minuscula,
+		9	Neoreomys_australis,
+		10	Cuniculus_paca,
+		11	Dasyprocta_punctata,
+		12	Dasyprocta_leporina,
+		13	Dasyprocta_variegata,
+		14	Myoprocta_acouchy,
+		15	Coendou_spinosus,
+		16	Coendou_prehensilis,
+		17	Erethizon_dorsatum,
+		18	Phyllomys_dasythrix,
+		19	Pattonomys_semivillosus,
+		20	Mesomys_hispidus,
+		21	Hoplomys_gymnurus,
+		22	Myocastor_coypus,
+		23	Capromys_pilorides,
+		24	Octodon_degus,
+		25	Spalacopus_cyaneus,
+		26	Ctenomys_pearsoni,
+		27	Prospaniomys_priscus,
+		28	Chinchilla_lanigera,
+		29	Lagidium_peruanum,
+		30	Lagostomus_maximus,
+		31	Incamys_bolivianus,
+		32	Neoepiblema_acreensis,
+		33	Dinomys_branickii
+	;
+	TREE * UNTITLED = [&R] ((((((((1:0.02631578947,2:0.02631578947):0.05263157895,(3:0.02631578947,4:0.02631578947):0.05263157895):0.1052631579,(((5:0.02631578947,6:0.02631578947):0.02631578947,7:0.05263157895):0.02631578947,8:0.07894736842):0.1052631579):0.02631578947,9:0.2105263158):0.02631578947,10:0.2368421053):0.1052631579,(((11:0.02631578947,12:0.02631578947):0.02631578947,13:0.05263157895):0.02631578947,14:0.07894736842):0.2631578947):0.07894736842,((15:0.02631578947,16:0.02631578947):0.02631578947,17:0.05263157895):0.3684210526):0.4210526316,(((((((18:0.02631578947,19:0.02631578947):0.02631578947,20:0.05263157895):0.05263157895,(21:0.02631578947,22:0.02631578947):0.07894736842):0.02631578947,23:0.1315789474):0.07894736842,((24:0.02631578947,25:0.02631578947):0.02631578947,26:0.05263157895):0.1578947368):0.02631578947,27:0.2368421053):0.1578947368,(((((28:0.02631578947,29:0.02631578947):0.02631578947,30:0.05263157895):0.02631578947,31:0.07894736842):0.02631578947,32:0.1052631579):0.02631578947,33:0.1315789474):0.2631578947):0.4473684211);
+END;

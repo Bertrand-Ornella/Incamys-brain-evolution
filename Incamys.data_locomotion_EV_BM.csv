@@ -1,0 +1,34 @@
+"","Sp","Species_name","Families","Abbreviations","Locomotion","Group","Collection_number","Body_mass_g","Body_mass_mg","Brain_volume_cm3","Brain_volume_mm3"
+"Cavia_porcellus",1,"Cavia_porcellus","Cavioidea","Ca_po","Ambulatory","Cavioidea","HACB CP3",703.77,703770,5.72985,5729.85
+"Cavia_aperea",2,"Cavia_aperea","Cavioidea","Ca_ap","Ambulatory","Cavioidea","MCN 1709",552.2,552200,4.101351351,4101.351351
+"Galea_spixii",3,"Galea_spixii","Cavioidea","Ga_sp","Ambulatory","Cavioidea","PIMUZ/AV 2472",335.78,335780,3.75965251,3759.65251
+"Galea_musteloides",4,"Galea_musteloides","Cavioidea","Ga_mu","Ambulatory","Cavioidea","ZM 16952",396.21,396210,2.635135135,2635.135135
+"Hydrochaerus_hydrochaeris",5,"Hydrochaerus_hydrochaeris","Cavioidea","Hy_hy","Ambulatory","Cavioidea","OUVC 10698",51898.92,51898920,94.74694,94746.94
+"Kerodon_rupestris",6,"Kerodon_rupestris","Cavioidea","Ke_ru","Jumper","Cavioidea","PIMUZ/AV 2460",899.575,899575,6.17953668,6179.53668
+"Cuniculus_paca",7,"Cuniculus_paca","Cavioidea","Cu_pa","Ambulatory","Cavioidea","UF 6607",8553.77,8553770,41.3991,41399.1
+"Dolichotis_patagonum",8,"Dolichotis_patagonum","Cavioidea","Do_pa","Cursorial","Cavioidea","B 21869",8018,8018000,29.41119691,29411.19691
+"Myoprocta_acouchy",9,"Myoprocta_acouchy","Cavioidea","My_ac","Cursorial","Cavioidea","AMNH 94073",987.48,987480,12.9327,12932.7
+"Dasyprocta_punctata",10,"Dasyprocta_punctata","Cavioidea","Da_pu","Cursorial","Cavioidea","AMNH 14179",3049.32,3049320,21.9964,21996.4
+"Dasyprocta_variegata",11,"Dasyprocta_variegata","Cavioidea","Da_va","Cursorial","Cavioidea","PIMUZ 11923",4100,4100000,23.496139,23496.139
+"Dasyprocta_leporina",12,"Dasyprocta_leporina","Cavioidea","Da_le","Cursorial","Cavioidea","PIMUZ 19854",3980,3980000,23.96332046,23963.32046
+"Dolicavia_minuscula",13,"Dolicavia_minuscula","Cavioidea","Do_mi","Fossil","Cavioidea","MMP M-1364",534.52,534520,6.006,6006
+"Neoreomys_australis",14,"Neoreomys_australis","Cavioidea","Ne_au","Fossil","Cavioidea","PIMUZ A/V 5265",5120,5120000,13.20844,13208.44
+"Coendou_prehensilis",15,"Coendou_prehensilis","Erethizontoidea","Co_pr","Slow climber","Erethizontoidea","UF 14899",4177.7,4177700,22.473,22473
+"Coendou_spinosus",16,"Coendou_spinosus","Erethizontoidea","Co_sp","Slow climber","Erethizontoidea","MCN-M 335",1592.5,1592500,13.83153,13831.53
+"Erethizon_dorsatum",17,"Erethizon_dorsatum","Erethizontoidea","Er_do","Slow climber","Erethizontoidea","AMNH 121895",7125.25,7125250,26.0027,26002.7
+"Pattonomys_semivillosus",18,"Pattonomys_semivillosus","Octodontoidea","Pa_se","Slow climber","Pan-Octodontoidea","AMNH 96763",282.36,282360,5.62519,5625.19
+"Mesomys_hispidus",19,"Mesomys_hispidus","Octodontoidea","Me_hi","Slow climber","Pan-Octodontoidea","AMNH 80434",180,180000,2.89773,2897.73
+"Hoplomys_gymnurus",20,"Hoplomys_gymnurus","Octodontoidea","Ho_gy","Ambulatory","Pan-Octodontoidea","AMNH 29548",297.11,297110,4.92885,4928.85
+"Phyllomys_dasythrix",21,"Phyllomys_dasythrix","Octodontoidea","Ph_da","Slow climber","Pan-Octodontoidea","MCN-M 391",256.67,256670,2.57377,2573.77
+"Myocastor_coypus",22,"Myocastor_coypus","Octodontoidea","My_co","Ambulatory","Pan-Octodontoidea","AMNH 93320",5654.84,5654840,17.8861,17886.1
+"Octodon_degus",23,"Octodon_degus","Octodontoidea","Oc_de","Ambulatory","Pan-Octodontoidea","AMNH 242477",212.57,212570,2.13545,2135.45
+"Spalacopus_cyaneus",24,"Spalacopus_cyaneus","Octodontoidea","Sp_cy","Subterranean","Pan-Octodontoidea","AMNH 33277",118.4,118400,1.66501,1665.01
+"Capromys_pilorides",25,"Capromys_pilorides","Octodontoidea","Ca_pi","Slow climber","Pan-Octodontoidea","UMZC E.3371",5263,5263000,13.7319,13731.9
+"Ctenomys_pearsoni",26,"Ctenomys_pearsoni","Octodontoidea","Ct_pe","Subterranean","Pan-Octodontoidea","AMNH 206517",224.96,224960,2.42158,2421.58
+"Prospaniomys_priscus",27,"Prospaniomys_priscus","Octodontoidea","Pr_pr","Fossil","Pan-Octodontoidea","MACN-PV CH1913",368.6760783,368676.0783,2.4258,2425.8
+"Lagostomus_maximus",28,"Lagostomus_maximus","Chinchilloidea","La_ma","Ambulatory","Chinchilloidea","AMNH 41523",4859.68,4859680,13.3266,13326.6
+"Chinchilla_lanigera",29,"Chinchilla_lanigera","Chinchilloidea","Ch_la","Jumper","Chinchilloidea","AMNH 180038",442.7,442700,5.60295,5602.95
+"Lagidium_peruanum",30,"Lagidium_peruanum","Chinchilloidea","La_pe","Jumper","Chinchilloidea","1043",1240,1240000,12.6183,12618.3
+"Dinomys_branickii",31,"Dinomys_branickii","Chinchilloidea","Di_br","Ambulatory","Chinchilloidea","MCN-D 072",12625,12625000,42.7852,42785.2
+"Incamys_bolivianus",32,"Incamys_bolivianus","Chinchilloidea","In_bo","Fossil","Chinchilloidea","YPM VPPU 21945",787.1062757,787106.2757,3.93658,3936.58
+"Neoepiblema_acreensis",33,"Neoepiblema_acreensis","Chinchilloidea","Ne_ac","Fossil","Chinchilloidea","UFAC 4515",126955.3877,126955387.7,49.5388,49538.8

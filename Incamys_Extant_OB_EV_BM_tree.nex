@@ -1,0 +1,69 @@
+#NEXUS
+[R-package APE, Fri Sep 29 17:21:36 2023]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 28;
+	TAXLABELS
+		Cavia_porcellus
+		Cavia_aperea
+		Galea_musteloides
+		Galea_spixii
+		Kerodon_rupestris
+		Hydrochaerus_hydrochaeris
+		Dolichotis_patagonum
+		Cuniculus_paca
+		Dasyprocta_punctata
+		Dasyprocta_leporina
+		Dasyprocta_variegata
+		Myoprocta_acouchy
+		Coendou_spinosus
+		Coendou_prehensilis
+		Erethizon_dorsatum
+		Phyllomys_dasythrix
+		Pattonomys_semivillosus
+		Mesomys_hispidus
+		Hoplomys_gymnurus
+		Myocastor_coypus
+		Capromys_pilorides
+		Octodon_degus
+		Spalacopus_cyaneus
+		Ctenomys_pearsoni
+		Chinchilla_lanigera
+		Lagidium_peruanum
+		Lagostomus_maximus
+		Dinomys_branickii
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Cavia_porcellus,
+		2	Cavia_aperea,
+		3	Galea_musteloides,
+		4	Galea_spixii,
+		5	Kerodon_rupestris,
+		6	Hydrochaerus_hydrochaeris,
+		7	Dolichotis_patagonum,
+		8	Cuniculus_paca,
+		9	Dasyprocta_punctata,
+		10	Dasyprocta_leporina,
+		11	Dasyprocta_variegata,
+		12	Myoprocta_acouchy,
+		13	Coendou_spinosus,
+		14	Coendou_prehensilis,
+		15	Erethizon_dorsatum,
+		16	Phyllomys_dasythrix,
+		17	Pattonomys_semivillosus,
+		18	Mesomys_hispidus,
+		19	Hoplomys_gymnurus,
+		20	Myocastor_coypus,
+		21	Capromys_pilorides,
+		22	Octodon_degus,
+		23	Spalacopus_cyaneus,
+		24	Ctenomys_pearsoni,
+		25	Chinchilla_lanigera,
+		26	Lagidium_peruanum,
+		27	Lagostomus_maximus,
+		28	Dinomys_branickii
+	;
+	TREE * UNTITLED = [&R] (((((((1:0.02631578947,2:0.02631578947):0.05263157895,(3:0.02631578947,4:0.02631578947):0.05263157895):0.1052631579,((5:0.02631578947,6:0.02631578947):0.02631578947,7:0.05263157895):0.1315789474):0.05263157895,8:0.2368421053):0.1052631579,(((9:0.02631578947,10:0.02631578947):0.02631578947,11:0.05263157895):0.02631578947,12:0.07894736842):0.2631578947):0.07894736842,((13:0.02631578947,14:0.02631578947):0.02631578947,15:0.05263157895):0.3684210526):0.4210526316,((((((16:0.02631578947,17:0.02631578947):0.02631578947,18:0.05263157895):0.05263157895,(19:0.02631578947,20:0.02631578947):0.07894736842):0.02631578947,21:0.1315789474):0.07894736842,((22:0.02631578947,23:0.02631578947):0.02631578947,24:0.05263157895):0.1578947368):0.1842105263,(((25:0.02631578947,26:0.02631578947):0.02631578947,27:0.05263157895):0.07894736842,28:0.1315789474):0.2631578947):0.4473684211);
+END;

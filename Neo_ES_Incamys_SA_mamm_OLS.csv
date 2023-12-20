@@ -1,0 +1,9 @@
+"","Species","Sp","Species_name","Families","Families1","Fossil_point","Abbreviations","Shape_point","Epoch","Regression_point","Collection_number","Brain","Neo","predicted","residuals"
+"14","Neoreomys_australis",14,"Neoreomys_australis","Cavioidea","Caviomorpha","Fossil","Ne_au","Ne_au","Miocene","Fossil","PIMUZ A/V 5265",3.65628606803692,3.18765888346509,3.07156898972359,0.116089893741503
+"27","Prospaniomys_priscus",27,"Prospaniomys_priscus","Octodontoidea","Caviomorpha","Fossil","Pr_pr","Pr_pr","Miocene","Fossil","MACN-PV CH1913",3.14538289197487,2.38453261549425,2.52758842160207,-0.143055806107824
+"32","Incamys_bolivianus",32,"Incamys_bolivianus","Chinchilloidea","Caviomorpha","Fossil","In_bo","In_bo","Oligocene","Fossil","YPM VPPU 21945",3.34596741590978,2.81299352668558,2.74115938455346,0.0718341421321225
+"40","Rhynchippus_equinus",40,"Rhynchippus_equinus","Notoungulata","Notoungulata","Other","Rh_eq","Other","Oligocene","Notoungulata","MPEF-PV 695",4.13165073808954,3.5705429398819,3.5777101831945,-0.00716724331260332
+"43","Mendozahippus_fierensis",43,"Mendozahippus_fierensis","Notoungulata","Notoungulata","Other","Me_fi","Other","Oligocene","Notoungulata","MCNAM-PV 4004",4.0957619594775,3.52556305827007,3.53949785825058,-0.0139347999805106
+"47","Trachytherus_spegazzinianus",47,"Trachytherus_spegazzinianus","Notoungulata","Notoungulata","Other","Tr_su","Other","Oligocene","Notoungulata","UNPSJB-PV 112",4.01874209576238,3.45636603312904,3.45749149934843,-0.00112546621938492
+"51","Nesodon_imbricatus",53,"Nesodon_imbricatus","Notoungulata","Notoungulata","Other","Ne_iu","Other","Miocene","Notoungulata","MPEF-PV 1323",4.64343293537925,4.06367105393072,4.12262668299392,-0.0589556290632016
+"61","Mesotherium maendrum_2925",63,"Mesotherium_maendrum_2925","Notoungulata","Notoungulata","Other","Me_ma_2925","Other","Pliocene","Notoungulata","MACN Pv 2925",4.13379430060451,3.61630743513579,3.57999252632591,0.0363149088098855

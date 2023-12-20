@@ -1,0 +1,65 @@
+Species,Sp,Species_name,Families,Families1,Fossil_point,Abbreviations,Shape_point,Epoch,Regression_point,Collection_number,Body_mass_g,Body_mass_mg,Brain_volume_cm3,Brain_volume_mm3,Olfactory_bulbs_mm3,Petrosal_lobules_mm3,Brain_surface_mm2,Neocortex_surface_mm2
+Cavia_porcellus,1,Cavia_porcellus,Cavioidea,Other,Other,Ca_po,Other,Extant,Extant,HACB CP3,703.77,703770,5.72985,5729.85,174.112,25.91,2332.89,741.75
+Cavia_aperea,2,Cavia_aperea,Cavioidea,Other,Other,Ca_ap,Other,Extant,Extant,MCN 1709,552.2,552200,4.101351351,4101.351351,144,55.4,1825,662
+Galea_spixii,3,Galea_spixii,Cavioidea,Other,Other,Ga_sp,Other,Extant,Extant,PIMUZ/AV 2472,335.78,335780,3.75965251,3759.65251,149,55.5,1701,623
+Galea_musteloides,4,Galea_musteloides,Cavioidea,Other,Other,Ga_mu,Other,Extant,Extant,ZM 16952,396.21,396210,2.635135135,2635.135135,103,28.8,1388,489
+Hydrochaerus_hydrochaeris,5,Hydrochaerus_hydrochaeris,Cavioidea,Other,Other,Hy_hy,Other,Extant,Extant,OUVC 10698,51898.92,51898920,94.74694,94746.94,1990,NA,15877,6237
+Kerodon_rupestris,6,Kerodon_rupestris,Cavioidea,Other,Other,Ke_ru,Other,Extant,Extant,PIMUZ/AV 2460,899.575,899575,6.17953668,6179.53668,117,72.9,2258,749
+Cuniculus_paca,7,Cuniculus_paca,Cavioidea,Other,Other,Cu_pa,Other,Extant,Extant,UF 6607,8553.77,8553770,41.3991,41399.1,1769.71,NA,8373,2777.6
+Dolichotis_patagonum,8,Dolichotis_patagonum,Cavioidea,Other,Other,Do_pa,Other,Extant,Extant,B 21869,8018,8018000,29.41119691,29411.19691,557,129.7,6938,2892
+Myoprocta_acouchy,9,Myoprocta_acouchy,Cavioidea,Other,Other,My_ac,Other,Extant,Extant,AMNH 94073,987.48,987480,12.9327,12932.7,411.829,73,3720.67,1411.96
+Dasyprocta_punctata,10,Dasyprocta_punctata,Cavioidea,Other,Other,Da_pu,Other,Extant,Extant,AMNH 14179,3049.32,3049320,21.9964,21996.4,769.01,168.9,5374.4,1833.69
+Dasyprocta_variegata,11,Dasyprocta_variegata,Cavioidea,Other,Other,Da_va,Other,Extant,Extant,PIMUZ 11923,4100,4100000,23.496139,23496.139,786,173.6,5878,2162
+Dasyprocta_leporina,12,Dasyprocta_leporina,Cavioidea,Other,Other,Da_le,Other,Extant,Extant,PIMUZ 19854,3980,3980000,23.96332046,23963.32046,792,138,6021,2222
+Dolicavia_minuscula,13,Dolicavia_minuscula,Cavioidea,Caviomorpha,Fossil,Do_mi,Do_mi,Pliocene,Fossil,MMP M-1364,534.52,534520,6.006,6006,NA,NA,NA,NA
+Neoreomys_australis,14,Neoreomys_australis,Cavioidea,Caviomorpha,Fossil,Ne_au,Ne_au,Miocene,Fossil,PIMUZ A/V 5265,5120,5120000,13.20844,13208.44,436.48,103.7,4531.96,1540.49
+Coendou_prehensilis,15,Coendou_prehensilis,Erethizontoidea,Other,Other,Co_pr,Other,Extant,Extant,UF 14899,4177.7,4177700,22.473,22473,372.849,5.6,4892.04,1978.26
+Coendou_spinosus,16,Coendou_spinosus,Erethizontoidea,Other,Other,Co_sp,Other,Extant,Extant,MCN-M 335,1592.5,1592500,13.83153,13831.53,308.58,6.3,3988.62,1618.12
+Erethizon_dorsatum,17,Erethizon_dorsatum,Erethizontoidea,Other,Other,Er_do,Other,Extant,Extant,AMNH 121895,7125.25,7125250,26.0027,26002.7,467.118,NA,5649.5,2372.73
+Pattonomys_semivillosus,18,Pattonomys_semivillosus,Octodontoidea,Other,Other,Pa_se,Other,Extant,Extant,AMNH 96763,282.36,282360,5.62519,5625.19,223.018,40.02,2214.85,722.42
+Mesomys_hispidus,19,Mesomys_hispidus,Octodontoidea,Other,Other,Me_hi,Other,Extant,Extant,AMNH 80434,180,180000,2.89773,2897.73,117.782,29.22,1401.7,484.946
+Hoplomys_gymnurus,20,Hoplomys_gymnurus,Octodontoidea,Other,Other,Ho_gy,Other,Extant,Extant,AMNH 29548,297.11,297110,4.92885,4928.85,259.389,29.41,1984.73,650.73
+Phyllomys_dasythrix,21,Phyllomys_dasythrix,Octodontoidea,Other,Other,Ph_da,Other,Extant,Extant,MCN-M 391,256.67,256670,2.57377,2573.77,75.52,37.2,1395.01,499.313
+Myocastor_coypus,22,Myocastor_coypus,Octodontoidea,Other,Other,My_co,Other,Extant,Extant,AMNH 93320,5654.84,5654840,17.8861,17886.1,534.486,73.1,4756.56,1808.54
+Octodon_degus,23,Octodon_degus,Octodontoidea,Other,Other,Oc_de,Other,Extant,Extant,AMNH 242477,212.57,212570,2.13545,2135.45,78.9871,22.68,1133.15,397.179
+Spalacopus_cyaneus,24,Spalacopus_cyaneus,Octodontoidea,Other,Other,Sp_cy,Other,Extant,Extant,AMNH 33277,118.4,118400,1.66501,1665.01,62.4222,7.85,925.15,354.122
+Capromys_pilorides,25,Capromys_pilorides,Octodontoidea,Other,Other,Ca_pi,Other,Extant,Extant,UMZC E.3371,5263,5263000,13.7319,13731.9,399.692,6.2,4005.92,1425
+Ctenomys_pearsoni,26,Ctenomys_pearsoni,Octodontoidea,Other,Other,Ct_pe,Other,Extant,Extant,AMNH 206517,224.96,224960,2.42158,2421.58,65.0467,19.08,1173.36,438.099
+Prospaniomys_priscus,27,Prospaniomys_priscus,Octodontoidea,Caviomorpha,Fossil,Pr_pr,Pr_pr,Miocene,Fossil,MACN-PV CH1913,368.6760783,368676.0783,2.4258,2425.8,63.6,36,1397.6,242.4
+Lagostomus_maximus,28,Lagostomus_maximus,Chinchilloidea,Other,Other,La_ma,Other,Extant,Extant,AMNH 41523,4859.68,4859680,13.3266,13326.6,352.436,17.6,3899.19,1565.02
+Chinchilla_lanigera,29,Chinchilla_lanigera,Chinchilloidea,Other,Other,Ch_la,Other,Extant,Extant,AMNH 180038,442.7,442700,5.60295,5602.95,122.198,103.27,2158.88,638
+Lagidium_peruanum,30,Lagidium_peruanum,Chinchilloidea,Other,Other,La_pe,Other,Extant,Extant,1043,1240,1240000,12.6183,12618.3,289.12,262.9,3631.73,1482.95
+Dinomys_branickii,31,Dinomys_branickii,Chinchilloidea,Other,Other,Di_br,Other,Extant,Extant,MCN-D 072,12625,12625000,42.7852,42785.2,1073.78,NA,7527.5,3226.38
+Incamys_bolivianus,32,Incamys_bolivianus,Chinchilloidea,Caviomorpha,Fossil,In_bo,In_bo,Oligocene,Fossil,YPM VPPU 21945,787.1062757,787106.2757,3.93658,3936.58,173.524,63.64,2218.03,650.12
+Neoepiblema_acreensis,33,Neoepiblema_acreensis,Chinchilloidea,Caviomorpha,Fossil,Ne_ac,Ne_ac,Miocene,Fossil,UFAC 4515,126955.3877,126955387.7,49.5388,49538.8,NA,NA,10596.9,NA
+Ischyromys_typus,34,Ischyromys_typus,Ischyromyidae_Sciuroidea,Other,Other,Is_ty,Other,Ischyromyidae_Sciuroidea,Ischyromyidae_Sciuroidea,AMNH F: AM 144639; AMNH 12252; ROMV 1007,1199.076667,1199076.667,6.263176667,6263.176667,209.2226667,103.85,2835.36,606.7233333
+Mesogaulus_paniensis,35,Mesogaulus_paniensis,Ischyromyidae_Sciuroidea,Other,Other,Me_pa,Other,Ischyromyidae_Sciuroidea,Ischyromyidae_Sciuroidea,AMNH F:AM 65511,266.48,266480,3.46799,3467.99,113.986,46.27,1632.28,437.507
+Protosciurus_cf_rachelae,36,Protosciurus_cf_rachelae,Ischyromyidae_Sciuroidea,Other,Other,Pr_ra,Other,Ischyromyidae_Sciuroidea,Ischyromyidae_Sciuroidea,YPM 14737; YPM 14736,349.62,349620,5.102885,5102.885,211.552,158.925,2245.795,701.39
+Cedromus_wilsoni,37,Cedromus_wilsoni,Ischyromyidae_Sciuroidea,Other,Other,Ce_wi,Other,Ischyromyidae_Sciuroidea,Ischyromyidae_Sciuroidea,USNM 256584,393.49,393490,3.60987,3609.87,106.969,113.96,2048.7,645.15
+Prosciurus_relictus,38,Prosciurus_relictus,Ischyromyidae_Sciuroidea,Other,Other,Pr_re,Other,Ischyromyidae_Sciuroidea,Ischyromyidae_Sciuroidea,USNM 437793,143.57,143570,0.957445,957.445,33.9965,32.079,845.9,251.159
+Miopetaurista_crusafonti,39,Miopetaurista_crusafonti,Ischyromyidae_Sciuroidea,Other,Other,Mi_cr,Other,Ischyromyidae_Sciuroidea,Ischyromyidae_Sciuroidea,SNSB 1978 V 1,1228.9,1228900,10.82214,10822.14,131.13,207.42,2310.86,697.6
+Rhynchippus_equinus,40,Rhynchippus_equinus,Notoungulata,Notoungulata,Other,Rh_eq,Other,Oligocene,Notoungulata,MPEF-PV 695,85000,85000000,82.53,82530,NA,NA,13541,3720
+Eurygenium_latirostris,41,Eurygenium_latirostris,Notoungulata,Notoungulata,Other,Eu_li,Other,Oligocene,Notoungulata,UNPSJB-PV 60,119000,119000000,77.572,77572,NA,NA,NA,3404
+Cochilius_sp.,42,Cochilius_sp.,Notoungulata,Notoungulata,Other,Co_sp,Other,Oligocene,Notoungulata,SGOPV 3774,2050,2050000,6.839,6839,292,NA,NA,NA
+Mendozahippus_fierensis,43,Mendozahippus_fierensis,Notoungulata,Notoungulata,Other,Me_fi,Other,Oligocene,Notoungulata,MCNAM-PV 4004,82000,82000000,59.437,59437,4724,NA,12467,3354
+Gualta_cuyan,44,Gualta_cuyan,Notoungulata,Notoungulata,Other,Gu_ca,Other,Oligocene,Notoungulata,"MCNAM-PV
+3951",404000,404000000,235.04,235040,NA,NA,NA,5970
+Cramauchenia_normalis,45,Cramauchenia_normalis,Liptoterna,Liptoterna,Other,Cr_ni,Other,Oligocene,Liptoterna,MPEF-PV 2524,80250,80250000,111.72,111720,NA,NA,NA,NA
+Theosodon_cf_T_gracilis,46,Theosodon_cf_T_gracilis,Liptoterna,Liptoterna,Other,Th_gi,Other,Miocene,Liptoterna,MLP 12–1123,106450,106450000,153.66,153660,NA,NA,NA,NA
+Trachytherus_spegazzinianus,47,Trachytherus_spegazzinianus,Notoungulata,Notoungulata,Other,Tr_su,Other,Oligocene,Notoungulata,UNPSJB-PV 112,136460,136460000,60.41,60410,2960,NA,10441,2860
+Trachytherus_alloxus,48,Trachytherus_alloxus,Notoungulata,Notoungulata,Other,Tr_au,Other,Oligocene,Notoungulata,MNHN Bol V 6335,45280,45280000,30.89,30890,NA,NA,6062,NA
+Eutypotherium_superans,49,Eutypotherium_superans,Notoungulata,Notoungulata,Other,Eu_sn,Other,Miocene,Notoungulata,MACN A 11079,71900,71900000,47.36,47360,NA,NA,NA,NA
+Plesiotypotherium_achirense,52,Plesiotypotherium_achirense,Notoungulata,Notoungulata,Other,Pl_as,Other,Miocene,Notoungulata,MNHN.F.ACH 26,76180,76180000,72.42,72420,NA,NA,NA,2334
+Nesodon_imbricatus,53,Nesodon_imbricatus,Notoungulata,Notoungulata,Other,Ne_iu,Other,Miocene,Notoungulata,MPEF-PV 1323,581000,581000000,292,292000,NA,NA,43998,11579
+Pseudoplohophorus_absolutus,54,Pseudoplohophorus_absolutus,Xenarthra,Xenarthra,Other,Ps_ab,Other,Miocene,Cingulata Xenarthra,"FCDPV
+595",209000,209000000,100.98,100980,5755.86,NA,NA,NA
+Chilecebus_carrascoensis,55,Chilecebus_carrascoensis,Primates,Primates,Other,Ch_ci,Other,Miocene,stem Platyrrhini,SGOPV 3213,583,583000,7.96,7960,10,NA,NA,NA
+Glyptodon sp. 15152,56,Glyptodon_sp._15152,Xenarthra,Xenarthra,Other,Gl_sp_15152,Other,Pleistocene,Cingulata Xenarthra,MACN-Pv 15152,2012000,2012000000,234.12,234120,17324.88,NA,NA,NA
+Glyptodon sp. 11-04,57,Glyptodon_sp._11-04,Xenarthra,Xenarthra,Other,Gl_sp_11-04,Other,Pleistocene,Cingulata Xenarthra,MPAC 11-04,946000,946000000,213.38,213380,10242.24,NA,NA,NA
+Panochthus tuberculatus,59,Panochthus_tuberculatus,Xenarthra,Xenarthra,Other,Pa_tu,Other,Pleistocene,Cingulata Xenarthra,-,1453000,1453000000,212.61,212610,20623.17,NA,NA,NA
+Doedicurus clavicaudatus,60,Doedicurus_clavicaudatus,Xenarthra,Xenarthra,Other,Do_cl,Other,Pleistocene,Cingulata Xenarthra,-,1229000,1229000000,233.81,233810,19640.04,NA,NA,NA
+Macrauchenia patachonica,61,Macrauchenia_patachonica,Liptoterna,Liptoterna,Other,Ma_pa,Other,Pleistocene,Liptoterna,MACN-PV 2,458390,458390000,514.64,514640,NA,NA,NA,NA
+Pampatherium humboldtii,62,Pampatherium_humboldtii,Xenarthra,Xenarthra,Other,Pa_hu,Other,Pleistocene,Cingulata Xenarthra,MHD-P-28,209500,209500000,133,133000,10640,NA,NA,NA
+Mesotherium cristatum,64,Mesotherium_cristatum,Notoungulata,Notoungulata,Other,Me_cr,Other,Pleistocene,Notoungulata,MNHN.F.PAM 2,196280,196280000,54.23,54230,NA,NA,NA,2210
+Mesotherium maendrum_2925,63,Mesotherium_maendrum_2925,Notoungulata,Notoungulata,Other,Me_ma_2925,Other,Pliocene,Notoungulata,MACN Pv 2925,194820,194820000,93.25,93250,2810,NA,13608,4133.4
+Mesotherium maendrum_1111,64,Mesotherium_maendrum_1111,Notoungulata,Notoungulata,Other,Me_ma_1111,Other,Pliocene,Notoungulata,MACN Pv 1111,154060,154060000,65.34,65340,NA,NA,NA,2939.8
